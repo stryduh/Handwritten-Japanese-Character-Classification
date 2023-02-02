@@ -1,5 +1,5 @@
-# Hiragana-Classification
-Classification of handwritten Japanese hiragana characters using convolutional neural networks in Pytorch. 
+# Handwritten Japanese Character Classification
+Using convolutional neural networks, classify 71 handwritten hiragana and 48 handwritten katakana Japanese characters.
 Dataset is provided by the ETL Japanese Character database at http://etlcdb.db.aist.go.jp/.
-Specifications for the ETL files used in this project: http://etlcdb.db.aist.go.jp/specification-of-etl-8.
+
 
